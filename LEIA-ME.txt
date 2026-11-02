@@ -1,0 +1,17 @@
+MICROCRED — PROTÓTIPO DE TCC
+
+COMO ABRIR
+Extraia o ZIP e abra index.html em um navegador atualizado. Não é necessário instalar dependências.
+
+ROTEIRO PARA APRESENTAR
+1. Mostre o painel e o catálogo. Filtre por área ou procure uma habilidade.
+2. Abra um curso e percorra as três aulas, clicando em Concluir aula.
+3. Inicie a avaliação. A aprovação exige pelo menos 70% (com três questões, é necessário acertar as três).
+4. Abra o certificado e use Imprimir / salvar PDF.
+5. Mostre o certificado no portfólio em Meus certificados.
+
+ESCOPO
+Protótipo web responsivo em português, com três cursos, aulas textuais, avaliação, progresso e certificados demonstrativos. O usuário Alex Costa é fictício. Os registros são armazenados apenas no navegador utilizado. Não há autenticação própria, banco de dados compartilhado, emissão institucional ou validação pública de credenciais. O código do certificado é apenas um identificador de demonstração. O tempo no painel é uma estimativa de 10 minutos por aula concluída.
+
+EVOLUÇÕES PARA O TCC
+Autenticação de alunos e professores; cadastro de cursos; API e banco de dados; assinatura e verificação de credenciais; testes com usuários e avaliação de acessibilidade.
